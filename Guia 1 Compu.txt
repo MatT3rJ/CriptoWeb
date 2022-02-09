@@ -1,0 +1,44 @@
+<html>
+<head>
+<title> MundoCripto </title>
+<body background = "f.jfif">
+<font face="The Lake House"> <font color= "#660066" > <h1 aling= "center"> Kevin Cordon </h1> </font> </font>
+<hr>
+<font face= "The Lake House"> <font size= 5 <p> Fecha de Nacimiento: </font> <p> 28 de Noviembre de 1986 </p> </P>  </font>  
+<hr>
+<font face= "The Lake House"> <font size= 5 <p> Ocupacion:</font> <p> Bádmintonista </p> </p> </font> 
+<hr>
+<font face= "The Lake House"> <font size= 5 <p> Nacionalidad:</font> <p> Guatemalteca </p> </p> </font> 
+<hr>
+<font face= "The Lake House"> <font size= 5 <p> Dato: </font> <p> Cuarto Mejor Bandmintonista a nivel Mundial Masculino </p> </p> </font> 
+<img border= "10px" src= "k.jpg" src= "R.jpg" height= "150px" width= "200px"/> <img border= "10px" src= "kk.gif" src= "kk.gif" height= "150px" width= "200px"/> 
+<hr>
+<font face="The Lake House"> <font color= "#660066" > <h1 aling="center"> Rafael Nadal </h1> </font>
+<hr>
+<font face= "The Lake House"> <font size= 5 <p> Fecha de Nacimiento:</font>  <p> 3 de Julio de 1986 </p> </p> </font>
+<hr>
+<font face= "The Lake House"> <font size= 5 <p> Ocupacion: </font>  <p> Tensita </p> </p> </font> 
+<hr>
+<font face= "The Lake House"> <font size= 5 <p> Nacionalidad: </font>  <p> Española </p> </p> </font>
+<hr>
+<font face= "The Lake House"> <font size= 5 <p> Dato: </font> <p>  Ganador de 20 titulos Grand Slam </p> </font>
+<hr>
+<img border= "10px" src= "R.jfif" src= "R.jfif" height= "150px" width= "200px"/> <img border= "10px" src= "rr.gif" src= "rr.gif" height= "150px" width= "200px"/> 
+<hr>
+<font face="The Lake House"> <font color= "#660066" > <h1 aling="center"> Valtteri Botta </h1> </font>
+<hr>
+<font face= "The Lake House"> <font size= 5 <p> Fecha de Nacimiento:</font>  <p> 28 de Agostode 1989 </p> </p> </font>
+<hr>
+<font face= "The Lake House"> <font size= 5 <p> Ocupacion: </font>  <p> Concductor de formula Uno (Equipo Mercedes) </p> </p> </font> 
+<hr>
+<font face= "The Lake House"> <font size= 5 <p> Nacionalidad: </font>  <p> Finlandes </p> </p> </font>
+<hr>
+<font face= "The Lake House"> <font size= 5 <p> Dato: </font> <p>  Entre 2017 y 2021 obtubo 10 victorias y los mejores resultados de los campeonatos </p> </font>
+<hr>
+<a href "https://www.youtube.com"> You </a>
+<hr>
+<img border= "10px" src= "v.jpeg" src= "v.jpeg" height= "150px" width= "200px"/> <img border= "10px" src= "vv.gif" src= "vv.gif" height= "150px" width= "200px"/> 
+<hr>
+<img src= "c.gif" src= "c.gif" height= "200px" width= "300px"/> <img src= "cc.gif" src= "cc.gif" height= "200px" width= "300px"/> <font size= 6  Ganaras el año </font> 
+</body>
+</htlm>
